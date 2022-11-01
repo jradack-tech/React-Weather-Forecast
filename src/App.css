@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 15vmin;
   pointer-events: none;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#sel1 {
+  width: 300px;
+}
+
+.card {
+  min-width: 300px;
+  color: black;
 }
